@@ -1,0 +1,9 @@
+header, main, footer {
+  margin: 0 auto;
+  max-width: var(--width-content);
+  padding: 2rem 1rem;
+}
+
+header {
+  text-align: var(--align-center);
+}
