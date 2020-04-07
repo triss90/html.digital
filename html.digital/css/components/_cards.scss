@@ -1,0 +1,28 @@
+section {
+  aside {
+    background: transparent !important; /* Overwrites article>aside when nesting */
+    border: 1px solid var(--color-bg-secondary) !important;/* Overwrites article>aside when nesting */
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    margin: 1rem;
+    padding: 1.25rem !important;/* Overwrites article>aside when nesting */
+    width: var(--width-card);
+    transition: box-shadow ease-in-out 175ms;
+    &:hover {
+      box-shadow: var(--box-shadow) var(--color-bg-secondary);
+    }
+    img {
+      margin: 0 auto;
+      width: 90%;
+      display: block;
+    }
+  }
+}
+
+article {
+  aside {
+    background: var(--color-secondary-accent);
+    border-left: 4px solid var(--color-primary);
+    padding: 0.01rem 0.8rem;
+  }
+}

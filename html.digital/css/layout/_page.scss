@@ -1,3 +1,7 @@
+html, body {
+  background: var(--color-bg);
+}
+
 header, main, footer {
   margin: 0 auto;
   max-width: var(--width-content);
@@ -6,4 +10,19 @@ header, main, footer {
 
 header {
   text-align: var(--align-center);
+  width: 100%;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: var(--align-center);
+  header {
+    padding-top: 0;
+    width: 100% !important;
+  }
+}
+
+footer {
+  padding: 2rem 1rem;
 }

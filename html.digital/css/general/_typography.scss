@@ -4,6 +4,77 @@ html, body {
   line-height: var(--line-height);
 }
 
+img {
+  max-width: 100%;
+}
+
+code {
+  display: inline-block;
+  margin: 0 0.1rem;
+  padding: 0rem 0.5rem;
+}
+
+code,
+samp {
+  background-color: var(--color-accent);
+  color: var(--color-text);
+  border-radius: var(--border-radius);
+  text-align: var(--justify-normal);
+  word-break: normal;
+  word-wrap: normal;
+  white-space: pre;
+  overflow-y: scroll;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: var(--line-height);
+}
+
+mark {
+  padding: 0.1rem;
+}
+
+ol li,
+ul li {
+  padding: 0.2rem 0;
+}
+
+p {
+  margin: 0.75rem 0;
+  padding: 0;
+}
+
+samp {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
+  max-width: var(--width-card-wide);
+  padding: 1rem;
+  white-space: pre;
+}
+
+small {
+  color: var(--color-text-secondary);
+}
+
+sup {
+  background-color: var(--color-secondary);
+  border-radius: var(--border-radius);
+  color: var(--color-bg);
+  font-size: xx-small;
+  font-weight: bold;
+  margin: 0.2rem;
+  padding: 0.2rem 0.3rem;
+  position: relative;
+  top: -2px;
+}
+
+
 a {
   color: var(--color-primary);
   text-decoration: none;
@@ -21,6 +92,26 @@ em {
 
 }
 
-mark {
+blockquote {
+  display: block;
+  font-size: x-large;
+  line-height: var(--line-height);
+  margin: 1rem auto;
+  padding: 1.5rem 1rem;
+  max-width: var(--width-card-medium);
+  text-align: var(--justify-important);
+  footer {
+    color: var(--color-text-secondary);
+    display: block;
+    font-size: small;
+    line-height: var(--line-height);
+    padding: 1.5rem 0;
+  }
+}
 
+hr {
+  background-color: var(--color-bg-secondary);
+  border: none;
+  height: 1px;
+  margin: 4rem 0;
 }
