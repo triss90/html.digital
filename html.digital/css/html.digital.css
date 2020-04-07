@@ -82,8 +82,9 @@ img {
 
 code {
   display: inline-block;
-  margin: 0 0.1rem;
-  padding: 0rem 0.5rem; }
+  margin: 0.1rem;
+  padding: 0rem 0.5rem;
+  vertical-align: middle; }
 
 code,
 samp {
