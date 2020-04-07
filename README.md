@@ -1,18 +1,10 @@
-<main>
 
-* * *
-
-<article>
 
 ## Layout
 
 Simple semantic HTML:
 
-<samp><html> <head>[...]</head> <body> <header> <nav></nav> </header> <main> <section></section> </main> <footer></footer> </body> </html></samp></article>
 
-* * *
-
-<article>
 
 ## Typography
 
@@ -44,7 +36,6 @@ Simple semantic HTML:
 
 * * *
 
-`<hr>`  
 
 Regular body text
 
@@ -73,11 +64,9 @@ _Italic text_, _emphasized text_
 
 `<ul><li>Ordered list</li></ul>`  
 
-</article>
 
 * * *
 
-<article>
 
 ## Code and Quotes
 
@@ -95,7 +84,6 @@ _Italic text_, _emphasized text_
 > 
 > <footer>_- [Tristan White](https://triss.dev), Author of html.digital_</footer>
 
-</article>
 
 * * *
 
