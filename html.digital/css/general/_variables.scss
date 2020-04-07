@@ -1,5 +1,15 @@
-:root {
+/*
+Name:           HTML.digital
+Description:    A reinterpretation of the browser's stylesheet
+Version:        v1.0.0
+Author:         Tristan White
+Author URI:     https://html.digital
+*/
 
+/***********************************************/
+/******************** VARIABLES ****************/
+/***********************************************/
+:root {
   /* Base color scheme (fallback) */
   --color-primary: #dd0a35;
   --color-accent: #118bee0b;
@@ -13,7 +23,6 @@
   --color-success: #00a03e;
   --color-warning: #FFD800;
   --color-error: #dd0a35;
-
   /* Other variables */
   --border-radius: 4px;
   --box-shadow: 2px 2px 10px;
@@ -25,7 +34,6 @@
   --width-card-medium: 460px;
   --width-card-wide: 800px;
   --width-content: 1080px;
-
 }
 
 /* lightmode or fallback if user has no preference */

@@ -1,5 +1,14 @@
 @charset "UTF-8";
-/* General */
+/*
+Name:           HTML.digital
+Description:    A reinterpretation of the browser's stylesheet
+Version:        v1.0.0
+Author:         Tristan White
+Author URI:     https://html.digital
+*/
+/***********************************************/
+/******************** VARIABLES ****************/
+/***********************************************/
 :root {
   /* Base color scheme (fallback) */
   --color-primary: #dd0a35;
@@ -55,6 +64,9 @@
   }
 }
 */
+/***********************************************/
+/******************** RESET ********************/
+/***********************************************/
 * {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -72,6 +84,9 @@ html {
 body {
   margin: 0; }
 
+/***********************************************/
+/******************** TYPOGRAPHY ***************/
+/***********************************************/
 html, body {
   color: var(--color-text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
@@ -167,7 +182,9 @@ hr {
   height: 1px;
   margin: 4rem 0; }
 
-/* Layout */
+/***********************************************/
+/******************** GENERAL ******************/
+/***********************************************/
 html, body {
   background: var(--color-bg); }
 
@@ -193,7 +210,9 @@ section {
 footer {
   padding: 2rem 1rem; }
 
-/* Components */
+/***********************************************/
+/******************** NAVIGATION ***************/
+/***********************************************/
 nav {
   -webkit-box-align: center;
           align-items: center;
@@ -212,6 +231,9 @@ nav {
       nav ul li a {
         color: var(--color-secondary); }
 
+/***********************************************/
+/******************** TABLES *******************/
+/***********************************************/
 table {
   border: 1px solid var(--color-bg-secondary);
   border-radius: var(--border-radius);
@@ -240,6 +262,9 @@ table {
   table tbody tr td:first-child {
     text-align: var(--align-left); }
 
+/***********************************************/
+/******************** CARDS *******Z************/
+/***********************************************/
 section aside {
   background: transparent !important;
   /* Overwrites article>aside when nesting */
@@ -265,6 +290,9 @@ article aside {
   border-left: 4px solid var(--color-primary);
   padding: 0.01rem 0.8rem; }
 
+/***********************************************/
+/******************** INPUTS *******************/
+/***********************************************/
 input, select, textarea {
   background: transparent;
   border: 1px solid var(--color-bg-secondary);
@@ -324,6 +352,9 @@ meter::-webkit-meter-even-less-good-value, meter:-moz-meter-sub-sub-optimum::-mo
   background: var(--color-error);
   border-radius: var(--border-radius); }
 
+/***********************************************/
+/******************** BUTTONS ******************/
+/***********************************************/
 button, input[type='submit'], a > b, a > i {
   font-size: 1rem;
   font-weight: bold;
