@@ -23,6 +23,237 @@
 		"oAP": "/build/.idea",
 		"oF": 0
 		},
+	"/assets/css/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/css/styles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/styles.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/img/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2123,
+		"oA": 0,
+		"oAP": "/assets/img/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 1388,
+		"oA": 0,
+		"oAP": "/assets/img/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/img/browserconfig.xml",
+		"oF": 0
+		},
+	"/assets/img/darkmode.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/darkmode.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1063,
+		"oA": 0,
+		"oAP": "/assets/img/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1286,
+		"oA": 0,
+		"oAP": "/assets/img/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/img/favicon.ico",
+		"oF": 0
+		},
+	"/assets/img/learning-curve.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/learning-curve.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/logo.png": {
+		"ft": 32768,
+		"iS": 1160,
+		"oA": 0,
+		"oAP": "/assets/img/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 1458,
+		"oA": 0,
+		"oAP": "/assets/img/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/placeholder.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/placeholder.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/progressive.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/progressive.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/progressive2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/progressive2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/responsive.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/responsive.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/responsive2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/responsive2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/semantic-html.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/semantic-html.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/img/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/img/site.webmanifest",
+		"oF": 0
+		},
+	"/assets/img/test.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/test.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/docs/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/index.html",
+		"oF": 0
+		},
 	"/html.digital/css/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -32,6 +263,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/html.digital/css/components/_buttons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/html.digital/css/components/_cards.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/html.digital/css/components/_cards.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/html.digital/css/components/_input.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/html.digital/css/components/_input.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -101,6 +358,29 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/html.digital/css/html.digital.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/html.digital/css/html.digital-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/html.digital/css/html.digital.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/html.digital/css/html.digital.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/html.digital/css/layout/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -123,29 +403,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/html.digital/css/layout/_page.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/html.digital/css/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/html.digital/css/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/html.digital/css/styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/html.digital/css/styles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -186,7 +443,7 @@
 	"creationDate": 606812274.14703202,
 	"displayValue": "html",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets-rose",
+	"iconImageName": "/assets/img/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
