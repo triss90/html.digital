@@ -109,8 +109,7 @@ samp {
   text-align: var(--justify-normal);
   word-break: normal;
   word-wrap: normal;
-  white-space: pre;
-  overflow-y: scroll; }
+  white-space: pre; }
 
 h1,
 h2,
