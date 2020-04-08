@@ -14,16 +14,11 @@ input[type="color"] {
   padding: 0.15rem;
 }
 
-
-input:not([type="submit"],[type="checkbox"],[type="radio"]),
-select, textarea {
- //width: 100%;
-}
-
 select {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
+  color: var(--color-text);
   background-color: transparent;
   background-image: url("data:image/svg+xml;utf8,<svg fill='currentColor' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
   background-repeat: no-repeat;

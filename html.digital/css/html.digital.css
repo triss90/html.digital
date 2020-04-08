@@ -136,7 +136,8 @@ samp {
   margin: 1rem 0;
   max-width: var(--width-card-wide);
   padding: 1rem;
-  white-space: pre; }
+  white-space: pre;
+  overflow-x: auto; }
 
 small {
   color: var(--color-text-secondary); }
@@ -197,11 +198,9 @@ header {
   width: 100%; }
 
 section {
-  display: -webkit-box;
   display: flex;
   flex-wrap: wrap;
-  -webkit-box-pack: var(--align-center);
-          justify-content: var(--align-center); }
+  justify-content: var(--align-center); }
   section header  {
     padding-top: 0;
     width: 100% !important; }
@@ -213,13 +212,10 @@ footer {
 /******************** NAVIGATION ***************/
 /***********************************************/
 nav {
-  -webkit-box-align: center;
-          align-items: center;
-  display: -webkit-box;
+  align-items: center;
   display: flex;
   font-weight: bold;
-  -webkit-box-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
   margin-bottom: 7rem; }
   nav ul {
     list-style: none;
@@ -275,7 +271,6 @@ section aside {
   padding: 1.25rem !important;
   /* Overwrites article>aside when nesting */
   width: var(--width-card);
-  -webkit-transition: box-shadow ease-in-out 175ms;
   transition: box-shadow ease-in-out 175ms; }
   section aside:hover {
     box-shadow: var(--box-shadow) var(--color-bg-secondary); }
@@ -308,6 +303,7 @@ select {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
+  color: var(--color-text);
   background-color: transparent;
   background-image: url("data:image/svg+xml;utf8,<svg fill='currentColor' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
   background-repeat: no-repeat;
@@ -367,7 +363,6 @@ button, input[type='submit'], a > b, a > i {
   padding: .75rem 1.15rem;
   margin: 1.5rem 0 0.5rem 0;
   cursor: pointer;
-  -webkit-transition: all ease-in-out 150ms;
   transition: all ease-in-out 150ms;
   display: inline-block; }
   button:hover, input[type='submit']:hover, a > b:hover, a > i:hover {

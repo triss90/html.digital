@@ -59,6 +59,7 @@ samp {
   max-width: var(--width-card-wide);
   padding: 1rem;
   white-space: pre;
+  overflow-x: auto;
 }
 
 small {
